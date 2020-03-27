@@ -42,18 +42,18 @@ Am rulat client-ul și server-ul de UDP pe același calculator.
 
 Am modificat client-ul și server-ul ca să poată rula fiecare din container-ul lui.
 
-![Server și client în containere diferite](udp/3-peste-bridge.png)
+![Server și client în containere diferite](https://user-images.githubusercontent.com/48345929/77791843-032ab500-7070-11ea-8e9e-8c5d54891265.png)
 
 ### Comunicare UDP vizualizată prin `tcpdump`
 
-![Un mesaj transmis înainte și înapoi prin UDP](udp/6-tcp-dump.png)
+![Un mesaj transmis înainte și înapoi prin UDP](https://user-images.githubusercontent.com/48345929/77791845-045be200-7070-11ea-8d11-a4d237b8b2ff.png)
 
 ### Accesez server-ul de UDP din container de pe host
 
 Am modificat `docker-compose.yml` ca să pot accesa port-ul `10000` de pe
 host.
 
-![Un mesaj transmis de pe host pe container și înapoi](udp/7-local.png)
+![Un mesaj transmis de pe host pe container și înapoi](https://user-images.githubusercontent.com/48345929/77791849-058d0f00-7070-11ea-9c1b-6829940edc8c.png)
 
 ## Exerciții TCP
 
