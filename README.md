@@ -36,7 +36,7 @@ Am scris un script de Python care face cereri HTTP cu diferite verbe.
 
 Am rulat client-ul și server-ul de UDP pe același calculator.
 
-![Server și client care comunică peste UDP](udp/1-comunicare.png)
+![Server și client care comunică peste UDP](https://user-images.githubusercontent.com/48345929/77791835-0160f180-7070-11ea-834a-c08a301e4a69.png)
 
 ### Server și client în containere diferite
 
