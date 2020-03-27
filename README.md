@@ -61,7 +61,7 @@ Exercițiile 1-3 au mers la UDP.
 
 ### Mesaj transmis prin TCP
 
-![Transmiterea unui mesaj de la client la server prin TCP](tcp/4-comunicare.png)
+![Transmiterea unui mesaj de la client la server prin TCP](https://user-images.githubusercontent.com/48345929/77793119-38380700-7072-11ea-8e7c-4bcedcd20416.png)
 
 ### 3-way Handshake
 
