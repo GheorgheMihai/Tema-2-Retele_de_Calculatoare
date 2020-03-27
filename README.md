@@ -14,21 +14,21 @@ de la Cloudflare pentru a afla adresa IP a unui domeniu.
 
 Am rulat Flask în container, și am deschis pagina în browser.
 
-![Pagina primită în browser](http/2-get/localhost.png)
-![Mesajele de pe server](http/2-get/flask.png)
+![Pagina primită în browser](https://user-images.githubusercontent.com/48345929/77791178-db871d00-706e-11ea-8956-f9bdbc560f0b.png)
+![Mesajele de pe server](https://user-images.githubusercontent.com/48345929/77791183-dd50e080-706e-11ea-90af-93a901aeb31d.png)
 
 ### Cereri de tip `POST`
 
 Am modificat server-ul să ridice la pătrat numărul primit ca JSON prin POST.
 
-![Cerere `POST` prin `curl`](http/3-post/post.png)
-![Ridicarea la pătrat pe rețea](http/3-post/squared.png)
+![Cerere `POST` prin `curl`](https://user-images.githubusercontent.com/48345929/77791186-df1aa400-706e-11ea-8ab8-1b9cdb2729c8.png)
+![Ridicarea la pătrat pe rețea](https://user-images.githubusercontent.com/48345929/77791188-dfb33a80-706e-11ea-9bfe-b0c808efc9b6.png)
 
 ### `httpbin`
 
 Am scris un script de Python care face cereri HTTP cu diferite verbe.
 
-![Cereri diverse la httpbin](http/4-httpbin/httpbin.png)
+![Cereri diverse la httpbin](https://user-images.githubusercontent.com/48345929/77791283-01acbd00-706f-11ea-88f5-25aff12a9552.png)
 
 ## Exerciții UDP
 
