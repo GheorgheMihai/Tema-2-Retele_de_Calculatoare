@@ -8,7 +8,7 @@
 Modulul `doh.py` definește o funcție care utilizează serviciul de DNS-over-HTTPS
 de la Cloudflare pentru a afla adresa IP a unui domeniu.
 
-![Adresa DNS pentru fmi.unibuc.ro](http/1-doh/dns.png)
+![Adresa DNS pentru fmi.unibuc.ro](https://user-images.githubusercontent.com/48345929/77791050-9d89f900-706e-11ea-97ce-3f7e7fee4592.png)
 
 ### Servirea cererilor de tip `GET` prin Flask
 
