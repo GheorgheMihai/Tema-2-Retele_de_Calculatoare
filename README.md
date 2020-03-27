@@ -1,6 +1,5 @@
-# Tema-2-Retele_de_Calculatoare
+# Tema-2-Retele_de_Calculatoare (din Laborator)
 
-# Tema 2 de la laboratorul de rețele
 
 ## Exerciții HTTP
 
